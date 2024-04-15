@@ -7,4 +7,4 @@
 <img src="https://github.com/Jackdanielslz190/Currency-Converter/blob/main/Assets/mocap-currency-converter.jpg?raw=true">
 
 
-https://jackdanielslz190.github.io/Currency-Converter/
+Segue link do resultado: https://jackdanielslz190.github.io/Currency-Converter/
